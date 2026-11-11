@@ -1,4 +1,4 @@
-# TP 10 — Composants Android
+# TP 2 — Composants Android
 
 Application Android réalisée en Kotlin pour explorer les composants d’interface et les échanges entre fragments.
 
